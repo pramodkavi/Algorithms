@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656172190 source:g:\2nd year\scs2201 data structures and algorithms iii\algorithms\naive algorithm\naive_algo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
